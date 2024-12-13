@@ -1,1 +1,1 @@
-shinsenter/scratch
+tomcat
