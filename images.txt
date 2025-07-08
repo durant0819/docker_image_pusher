@@ -1,1 +1,1 @@
-mysql:8.0.26
+apache/superset-cache:3.10-slim-bookworm
