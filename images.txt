@@ -1,1 +1,2 @@
-DOCKER_BUILDKIT=1 apache/superset-cache:3.10-slim-bookworm
+DOCKER_BUILDKIT=1 
+apache/superset-cache:3.10-slim-bookworm
