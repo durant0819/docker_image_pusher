@@ -1,1 +1,1 @@
-ajinata84/superset-cache:3.10-slim-bookworm-amd
+scribesecurity/superset-cache:3.10-slim-bookworm-amd
