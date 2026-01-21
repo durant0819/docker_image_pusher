@@ -1,2 +1,1 @@
-langgenius/dify-web:1.11.4
-langgenius/dify-api:1.11.4
+docker.io/envoyproxy/envoy:v1.31.10
