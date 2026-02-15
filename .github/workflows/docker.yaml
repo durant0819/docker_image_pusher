@@ -48,6 +48,10 @@ jobs:
         echo "=============================================================================="
         df -hT
         echo "=============================================================================="
+    
+    - name: clean cache
+      run: |
+        rm -rf /home/runner/actions-runner/cached
 
     - name: Checkout Code
       uses: actions/checkout@v4
